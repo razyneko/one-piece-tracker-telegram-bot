@@ -18,20 +18,20 @@ A Telegram bot to manage and track episodes of One Piece. This bot provides an e
 
 ## Screenshots
 ### 1. `/set_ep` Command
-![Set Episode](![01](https://github.com/user-attachments/assets/59972315-8abc-4324-a851-3bed3265ae95)
-)
+![01](https://github.com/user-attachments/assets/59972315-8abc-4324-a851-3bed3265ae95)
+
 
 ### 2. `/next` Command
-![Next Episode](![03](https://github.com/user-attachments/assets/4835103e-6f3a-4e48-8755-73e5c6018ed5)
-)
+![03](https://github.com/user-attachments/assets/4835103e-6f3a-4e48-8755-73e5c6018ed5)
+
 
 ### 3. `/current` Command
-![Current Episode](![02](https://github.com/user-attachments/assets/65ff6f9c-5bda-4ef2-a796-15748d8a774b)
-)
+![02](https://github.com/user-attachments/assets/65ff6f9c-5bda-4ef2-a796-15748d8a774b)
+
 
 ### 4. Invalid Command Handling
-![Invalid Command](![04](https://github.com/user-attachments/assets/8a134c89-bf74-43a2-a2a7-69ecbbac405f)
-)
+![04](https://github.com/user-attachments/assets/8a134c89-bf74-43a2-a2a7-69ecbbac405f)
+
 
 ## Installation
 1. Clone the repository:
